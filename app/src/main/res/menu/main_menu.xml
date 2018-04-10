@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_work"
+        android:title="Work"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_about"
+        android:title="About"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_contact"
+        android:title="Contact"
+        app:showAsAction="always"/>
+</menu>
